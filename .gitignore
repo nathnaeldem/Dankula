@@ -50,3 +50,9 @@ example
 .env.production
 
 .next/
+
+vendor/
+
+backend/vendor/
+
+*.zip
